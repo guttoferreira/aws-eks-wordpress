@@ -1,0 +1,9 @@
+# Terraform
+terraform/.terraform/*
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
+
+#eks
+eks/wp-config.php
+eks/secrets.yaml
